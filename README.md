@@ -12,3 +12,10 @@ The objectives of this analysis are to:
 - Develop a forecasting model based on historical IRS data.
 - Estimate future tax liability using historical trends.
 - Evaluate the effectiveness of the forecasting model.
+
+## Dataset
+
+Source: Internal Revenue Service (IRS) Statistics of Income (SOI)
+Publication: SOI Tax Stats - Individual income tax returns complete report (Publication 1304)
+Table: Selected income and tax items for selected years (in current and constant dollars)
+Tax Years: 1990-2023
