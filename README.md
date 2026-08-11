@@ -16,6 +16,41 @@ The objectives of this analysis are to:
 ## Dataset
 
 Source: Internal Revenue Service (IRS) Statistics of Income (SOI)
+
 Publication: SOI Tax Stats - Individual income tax returns complete report (Publication 1304)
+
 Table: Selected income and tax items for selected years (in current and constant dollars)
+
 Tax Years: 1990-2023
+
+## Research Questions
+
+1. How has total U.S. tax liability changed between 1990 and 2023?
+2. What long-term trends can be observed in historical tax liability data?
+3. What does a forecasting model predict for future tax liability?
+4. How closely do forecasted values follow historical trends?
+
+## Methods
+
+- Data preparation and cleaning
+- SQL-based data extraction
+- Descriptive statistical analysis
+- Forecast modeling
+- Data visualization
+
+## Tools and Technologies
+
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- Microsoft Access
+- Microsoft Excel
+- GitHub
+
+## How to Use This Project
+
+1. Import the IRS dataset into a relational database or spreadsheet application.
+2. Use the SQL queries in the sql folder to extract and summarize tax liability data.
+3. Run the Python analysis in the python folder to create visualizations and generate forecasts.
+4. Review the charts and findings to understand historical tax liability trends and forecasted values.
