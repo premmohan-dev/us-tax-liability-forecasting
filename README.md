@@ -59,6 +59,10 @@ U.S. tax liability generally increased between 1990 and 2023. While there were a
 
 U.S. tax liability changed substantially between 1990 and 2023. Over the 34-year period, tax liability ranged from approximately 471 million to 2.39 billion (reported in thousands of dollars), with an average value of about 1.15 billion. The higher average and maximum values reflect the strong growth in tax liability seen in recent years. Overall, the descriptive statistics support the upward trend shown in the historical data.
 
+## Research Question 3
+
+### 
+
 ## Methods
 
 - Data preparation and cleaning
