@@ -28,7 +28,7 @@ Tax Years: 1990-2023
 ## Research Questions
 
 1. How has total U.S. tax liability changed between 1990 and 2023?
-2. What long-term trends can be observed in historical tax liability data?
+2. What do the descriptive statistics reveal about historical U.S. tax liability?
 3. What does a forecasting model predict for future tax liability?
 4. How closely do forecasted values follow historical trends?
 
