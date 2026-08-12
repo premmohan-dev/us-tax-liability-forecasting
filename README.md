@@ -23,7 +23,7 @@ Table: Selected income and tax items for selected years (in current and constant
 
 Tax Years: 1990-2023
 
-**Note:** Amounts are reported in thousands of dollars, as provided in the IRS dataset.
+> **Note:** Amounts are reported in thousands of dollars, as provided in the IRS dataset.
 
 ## Research Questions
 
