@@ -23,6 +23,8 @@ Table: Selected income and tax items for selected years (in current and constant
 
 Tax Years: 1990-2023
 
+**Note:** Amounts are reported in thousands of dollars, as provided in the IRS dataset.
+
 ## Research Questions
 
 1. How has total U.S. tax liability changed between 1990 and 2023?
