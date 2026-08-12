@@ -118,4 +118,4 @@ The forecast follows the same overall trend as the historical data and suggests 
 
 ## Conclusion
 
-This analysis examined historical U.S. tax liability data from 1990 through 2023 using IRS Statistics of Income data. The results showed a strong long-term upward trend in tax liability, with considerable growth occurring over the study period. A linear regression forecasting model projected continued increases through 2033, although future results may be influenced by economic conditions, inflation, income levels, and tax law changes. Overall, the analysis provides insight into historical tax liability trends and demonstrates how forecasting techniques can be used to estimate future values.
+Overall, this analysis showed a clear increase in U.S. tax liability between 1990 and 2023. The historical data showed a consistent upward trend, and the forecasting model suggests that tax liability may continue to increase through 2033. Although future tax liability could be affected by economic conditions, inflation, and changes to tax laws, this analysis demonstrates how historical data can be used to identify trends and estimate future outcomes.
