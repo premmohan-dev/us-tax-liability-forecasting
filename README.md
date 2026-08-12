@@ -115,3 +115,7 @@ The forecast follows the same overall trend as the historical data and suggests 
 3. Import the dataset into Microsoft Access and run the SQL queries in the `sql` folder to retrieve and summarize historical tax liability data.
 4. Run the Python analysis in the `python` folder to generate descriptive statistics, visualizations, and forecasts.
 5. Review the charts, tables, and findings to understand historical tax liability trends and forecasted values.
+
+## Conclusion
+
+This analysis examined historical U.S. tax liability data from 1990 through 2023 using IRS Statistics of Income data. The results showed a strong long-term upward trend in tax liability, with considerable growth occurring over the study period. A linear regression forecasting model projected continued increases through 2033, although future results may be influenced by economic conditions, inflation, income levels, and tax law changes. Overall, the analysis provides insight into historical tax liability trends and demonstrates how forecasting techniques can be used to estimate future values.
