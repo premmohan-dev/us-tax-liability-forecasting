@@ -11,7 +11,7 @@ The objectives of this analysis are to:
 - Measure how tax liability has changed over time.
 - Develop a forecasting model based on historical IRS data.
 - Estimate future tax liability using historical trends.
-- Evaluate the effectiveness of the forecasting model.
+- Interpret forecast results and discuss factors that may affect model accuracy.
 
 ## Dataset
 
@@ -110,7 +110,8 @@ The forecast follows the same overall trend as the historical data and suggests 
 
 ## How to Use This Project
 
-1. Import the IRS dataset into a relational database or spreadsheet application.
-2. Use the SQL queries in the sql folder to extract and summarize tax liability data.
-3. Run the Python analysis in the python folder to create visualizations and generate forecasts.
-4. Review the charts and findings to understand historical tax liability trends and forecasted values.
+1. Download the IRS Statistics of Income (SOI) dataset included in the `data` folder.
+2. Use the cleaned `tax_liability_1990_2023.xlsx` dataset for analysis and forecasting.
+3. Import the dataset into Microsoft Access and run the SQL queries in the `sql` folder to retrieve and summarize historical tax liability data.
+4. Run the Python analysis in the `python` folder to generate descriptive statistics, visualizations, and forecasts.
+5. Review the charts, tables, and findings to understand historical tax liability trends and forecasted values.
