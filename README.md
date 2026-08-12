@@ -73,6 +73,14 @@ The forecasting model predicts that U.S. tax liability will continue to increase
 
 ### How closely do forecasted values follow historical trends?
 
+| Year | Predicted Tax Liability |
+|------|------------------------:|
+| 2024 | 2,015,433,839 |
+| 2025 | 2,064,831,253 |
+| 2026 | 2,114,228,666 |
+| 2027 | 2,163,626,080 |
+| 2028 | 2,213,023,493 |
+
 ### Key Findings
 
 The forecasted values follow the same upward trend seen in the historical data. Based on past patterns, the model predicts that U.S. tax liability will continue to increase through 2028. While the forecast provides a reasonable estimate, future tax liability may be affected by factors that are not included in the model, such as economic conditions or changes in tax policy.
