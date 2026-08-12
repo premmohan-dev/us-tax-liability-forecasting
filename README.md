@@ -88,7 +88,7 @@ The forecasting model predicts that U.S. tax liability will continue to increase
 
 ### Key Findings
 
-The forecast follows the same overall trend as the historical data, suggesting continued growth in U.S. tax liability over the forecast period. Because the model is based on historical trends from 1990 to 2023, it assumes that similar patterns will continue in the future. While the forecast provides a reasonable estimate based on past data, actual tax liability may be affected by factors such as economic conditions, inflation, changes in income levels, and future tax law changes.
+The forecast follows the same overall trend as the historical data and suggests continued growth in U.S. tax liability. While the model provides a reasonable estimate based on past trends, future tax liability could be affected by economic conditions, inflation, changes in income levels, and future tax law changes.
 
 ## Methods
 
