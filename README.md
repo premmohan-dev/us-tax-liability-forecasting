@@ -38,7 +38,26 @@ Tax Years: 1990-2023
 
 <img width="1179" height="590" alt="historical tax liability" src="https://github.com/user-attachments/assets/6ec2a6ba-9e20-4984-b3b8-0b2588540d7b" />
 
+### Key Findings
+
 U.S. tax liability generally increased between 1990 and 2023. While there were a few periods of decline, the overall trend was upward, with the largest growth occurring after 2009. Tax liability reached its highest level in 2021 and remained near that level through 2023. These results suggest that the amount of tax owed by U.S. taxpayers has grown substantially over the past three decades.
+
+## Research Question 2
+
+### What do the descriptive statistics reveal about historical U.S. tax liability?
+
+| Statistic | Value |
+|------------|------------:|
+| Count | 34 |
+| Mean | 1,150,979,103 |
+| Standard Deviation | 521,919,676 |
+| Minimum | 470,909,018 |
+| Median | 1,037,071,749 |
+| Maximum | 2,385,860,259 |
+
+### Key Findings
+
+U.S. tax liability changed substantially between 1990 and 2023. Over the 34-year period, tax liability ranged from approximately 471 million to 2.39 billion (reported in thousands of dollars), with an average value of about 1.15 billion. The higher average and maximum values reflect the strong growth in tax liability seen in recent years. Overall, the descriptive statistics support the upward trend shown in the historical data.
 
 ## Methods
 
