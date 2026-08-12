@@ -1,0 +1,8 @@
+-- Research Question 1
+-- How has total U.S. tax liability changed between 1990 and 2023?
+-- Purpose: Retrieves yearly tax liability values for trend analysis and visualization.
+
+SELECT
+    TaxLiability.Year,
+    TaxLiability.[Tax Liability Amount]
+FROM TaxLiability;
