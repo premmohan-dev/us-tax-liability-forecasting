@@ -32,6 +32,14 @@ Tax Years: 1990-2023
 3. What does a forecasting model predict for future tax liability?
 4. How closely do forecasted values follow historical trends?
 
+## Research Question 1
+
+### How has total U.S. tax liability changed between 1990 and 2023?
+
+<img width="1179" height="590" alt="historical tax liability" src="https://github.com/user-attachments/assets/6ec2a6ba-9e20-4984-b3b8-0b2588540d7b" />
+
+U.S. tax liability generally increased between 1990 and 2023. While there were a few periods of decline, the overall trend was upward, with the largest growth occurring after 2009. Tax liability reached its highest level in 2021 and remained near that level through 2023. These results suggest that the amount of tax owed by U.S. taxpayers has grown substantially over the past three decades.
+
 ## Methods
 
 - Data preparation and cleaning
