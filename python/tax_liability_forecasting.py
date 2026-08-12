@@ -3,7 +3,9 @@ U.S. Tax Liability Forecasting
 
 Author: Premsai Mohan
 
-This analysis examines historical U.S. tax liability data from 1990-2023 and uses a linear regression model to forecast future tax liability through 2033.
+This analysis examines historical U.S. tax liability data from 
+1990-2023 and uses a linear regression model to forecast 
+future tax liability through 2033.
 """
 
 # =====================================================
