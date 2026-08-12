@@ -59,6 +59,16 @@ U.S. tax liability generally increased between 1990 and 2023. While there were a
 
 U.S. tax liability changed substantially between 1990 and 2023. Over the 34-year period, tax liability ranged from approximately 471 million to 2.39 billion (reported in thousands of dollars), with an average value of about 1.15 billion. The higher average and maximum values reflect the strong growth in tax liability seen in recent years. Overall, the descriptive statistics support the upward trend shown in the historical data.
 
+## Research Question 3
+
+### What does a forecasting model predict for future U.S. tax liability?
+
+<img width="1182" height="569" alt="tax liability forecast" src="https://github.com/user-attachments/assets/6aef8a59-c871-4b3d-b1c3-f8288f5de12e" />
+
+### Key Findings
+
+The forecasting model predicts that U.S. tax liability will continue to increase over the next several years. Tax liability is projected to rise from approximately 2.02 billion in 2024 to 2.21 billion in 2028 (reported in thousands of dollars). Based on historical trends, the model suggests continued growth through the end of the forecast period.
+
 ## Methods
 
 - Data preparation and cleaning
