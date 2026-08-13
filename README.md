@@ -108,6 +108,10 @@ The forecast follows the same overall trend as the historical data and suggests 
 - Microsoft Excel
 - GitHub
 
+## SQL Analysis
+
+The SQL queries included in this project were developed and tested in Microsoft Access. These queries were used to retrieve historical tax liability data, calculate descriptive statistics, and support the forecasting analysis. While the forecasting model was built in Python, SQL was used to prepare and summarize the data used throughout the project.
+
 ## How to Use This Project
 
 1. Download the IRS Statistics of Income (SOI) dataset (`23intaba.xls`) included in the `data` folder.
