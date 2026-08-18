@@ -112,6 +112,10 @@ The forecast follows the same overall trend as the historical data and suggests 
 
 The SQL queries included in this project were developed and tested in Microsoft Access. These queries were used to retrieve historical tax liability data, calculate descriptive statistics, and support the forecasting analysis. While the forecasting model was built in Python, SQL was used to prepare and summarize the data used throughout the project.
 
+## Conclusion
+
+Overall, this analysis showed a clear increase in U.S. tax liability between 1990 and 2023. The historical data showed a consistent upward trend, and the forecasting model suggests that tax liability may continue to increase through 2033. Although future tax liability could be affected by economic conditions, inflation, and changes to tax laws, this analysis demonstrates how historical data can be used to identify trends and estimate future outcomes.
+
 ## How to Use This Project
 
 1. Download the IRS Statistics of Income (SOI) dataset (`23intaba.xls`) included in the `data` folder.
@@ -119,7 +123,3 @@ The SQL queries included in this project were developed and tested in Microsoft 
 3. Import the dataset into Microsoft Access and run the SQL queries in the `sql` folder to retrieve and summarize historical tax liability data.
 4. Run the Python analysis in the `python` folder to generate descriptive statistics, visualizations, and forecasts.
 5. Review the charts, tables, and findings to understand historical tax liability trends and forecasted values.
-
-## Conclusion
-
-Overall, this analysis showed a clear increase in U.S. tax liability between 1990 and 2023. The historical data showed a consistent upward trend, and the forecasting model suggests that tax liability may continue to increase through 2033. Although future tax liability could be affected by economic conditions, inflation, and changes to tax laws, this analysis demonstrates how historical data can be used to identify trends and estimate future outcomes.
